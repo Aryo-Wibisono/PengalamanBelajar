@@ -1,4 +1,4 @@
 # PengalamanBelajar
 tes dicoding <br>
 tambahan <br>
-<code style="color : red">warna merah</code>
+<p style="color : #c5f015 ">warna merah</p>
